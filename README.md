@@ -9,7 +9,7 @@ An open-source Android COVID-19 tracking app built using core UI components from
 
 
 
-**Author:** [Michael Ditrick]
+**Author:** Michael Ditrick
 
 This app uses data from the [COVID tracking project](https://twitter.com/covid19tracking) as the data source. The app currently displays data for the US, including all the states and territories.
 
