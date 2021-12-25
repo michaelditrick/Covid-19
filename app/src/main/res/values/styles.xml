@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--- Base Application Theme. -->
+    <style name="AppTheme" parent = "Theme.AppCompat.Light.DarkActionBar">
+        <!--- Customize theme -->
+        <item name = "colorPrimary">@color/colorPrimary</item>
+        <item name = "colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name = "colorAccent">@color/colorAccent</item>
+        <item name="android:radioButtonStyle">@style/CustomRadioButton</item>
+    </style>
+
+    <color name="colorPrimary">#09A2E7</color>
+    <color name="colorPrimaryDark">#5C5B50</color>
+    <color name="colorAccent">#EB1D0E</color>
+
+    //style for the radio buttons
+
+    <style name="CustomRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:button">@null</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_button_text</item>
+    </style>
+</resources>
