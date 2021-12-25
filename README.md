@@ -23,7 +23,7 @@ Libraries used:
 - Nice Spinner: https://github.com/arcadefire/nice-spinner
 
 Relevant links/api:
-- The data for our app is coming from The COVID Tracking Project: https://covidtracking.com/api
+- The data for our app is coming from The COVID Tracking Project (last update: March 2021): https://covidtracking.com/api
 - Prevention and treatment for COVID-19: https://g.co/kgs/gkeCji
 
 # License
